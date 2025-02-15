@@ -1,0 +1,15 @@
+[package]
+name = "stan"
+version = "1.0.0"
+authors = []
+
+[addresses]
+stan="ae9651d6836ef5c26089cf91f1683b198fac0e98e5a67260df9b148e1f570b1d"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
