@@ -1,8 +1,5 @@
 # Photon Protocol Specification
 
-## Overview
-A protocol for managing token issuance and redemption systems with support for multiple applications, users, and redemption sinks. The protocol implements a three-registry system (Users, Applications, Tokens) with campaign management and redemption functionality.
-
 ## Core Components
 
 ### 1. Registry Systems
